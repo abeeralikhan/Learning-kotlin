@@ -2,8 +2,8 @@
 
 This repo consist of all the files from my learning kotlin journey 
 
-What I have learned so far:
+What topics I have covered so far:
 - Types of variables
 - Top level variables
 - Nullable vs non-nullable variables
-- Type inference
+- Type System (type inference)
