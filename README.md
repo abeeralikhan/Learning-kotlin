@@ -7,4 +7,4 @@ What topics I have covered so far:
 - Top level variables
 - Nullable vs non-nullable variables
 - Type System (type inference)
-- Basic Control Flow ()[Dif-else)[D & when)
+- Basic Control Flow (if-else & when)
