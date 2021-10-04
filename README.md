@@ -3,8 +3,8 @@
 This repo consist of all the files from my learning kotlin journey
 
 Resources:
-- Freecodecamp YouTube course: https://youtu.be/F9UC9DY-vIU
-- Kotlin Documentaion: https://kotlinlang.org/docs/home.html
+- __[Freecodecamp YouTube Course](https://youtu.be/F9UC9DY-vIU)__
+- __[Kotlin Documentaion](https://kotlinlang.org/docs/home.html)__
 
 What topics I have covered so far:
 - Types of variables
