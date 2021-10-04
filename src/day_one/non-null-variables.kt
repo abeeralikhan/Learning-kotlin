@@ -12,6 +12,6 @@ fun main() {
     myAge = 21
     myName = null
 
-    // Hence, "?" tell that variable it can also hold a null value :) 
+    // Hence, "?" tell that variable it can also hold a null value :)
     println("My name is $myName, and I'm $myAge years old")
 }
