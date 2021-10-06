@@ -23,4 +23,4 @@ What topics I have covered so far:
 - Mutable vs Immutable Collections (Mutable Arrays, Lists and Maps)
 - Passing Collections as Arguments
 - Vararg, Named, and Default Parameters
-- "*" Spread Operator
+- "*" (Spread) Operator
