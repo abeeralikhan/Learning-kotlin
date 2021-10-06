@@ -12,3 +12,14 @@ What topics I have covered so far:
 - Nullable vs non-nullable variables
 - Type System (type inference)
 - Basic Control Flow (if-else & when)
+- For & ForEach Loops
+- Ternary Operation
+- Basic Functions
+- Single Expression Functions 
+- Introdunction to Collections
+- Arrays
+- Lists
+- Maps
+- Mutable vs Immutable Collections (Mutable Arrays, Lists and Maps)
+- Passing Collections as Arguments
+- Vararg, Named, and Default Parameters
